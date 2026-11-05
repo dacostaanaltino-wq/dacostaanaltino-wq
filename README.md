@@ -1,18 +1,25 @@
-# Analtino Costa
+# Analtino Da Costa Bebeca
 
-Technicien informatique junior en France. Je prépare un Mastère en cybersécurité en alternance (ISCOD). Je m'intéresse aux réseaux, à l'administration Linux et à la détection d'incidents.
+Diplômé en ingénierie informatique, je prépare ma candidature en alternance au **Mastère Management de la Cybersécurité de l’ISCOD** (2026–2028). Je m’intéresse aux systèmes, aux réseaux et à la sécurité informatique.
 
-**Ce que je cherche** : alternance en cybersécurité / administration systèmes et réseaux.
+**Portfolio : [dacostaanaltino-wq.github.io](https://dacostaanaltino-wq.github.io/)**
 
-## Projets
+## Projets sélectionnés
 
-| Projet | Ce que ça montre |
-|---|---|
-| [packet-tracer-vlan-lab](https://github.com/dacostaanaltino-wq/packet-tracer-vlan-lab) | Segmentation VLAN, routage inter-VLAN 802.1Q, ACL et SSH sur équipements Cisco |
-| [linux-hardening-lab-fedora](https://github.com/dacostaanaltino-wq/linux-hardening-lab-fedora) | Durcissement Linux avec scripts Bash et validation avant/après |
-| [network-monitoring-wireshark-lab](https://github.com/dacostaanaltino-wq/network-monitoring-wireshark-lab) | Analyse de trafic, filtres Wireshark et détection de scans |
-| [log-analysis-lab-linux](https://github.com/dacostaanaltino-wq/log-analysis-lab-linux) | Détection d'événements suspects dans les journaux avec Python, pytest et MITRE ATT&CK |
+| Projet | Description et technologies | Statut |
+|---|---|---|
+| [Business OS](https://zu2q8b76urpbz8m2w0ktxw55.macaly.app/) · 2026 | Application web de gestion d’entreprise · React, TypeScript, TanStack Start, Vite, Tailwind CSS, Convex | En ligne |
+| [Packet Tracer VLAN Lab](https://github.com/dacostaanaltino-wq/packet-tracer-vlan-lab) · 2026 | Laboratoire réseau : VLAN, routage, ACL et SSH · Cisco Packet Tracer (simulation à réaliser) | En cours |
+| [Linux Hardening Lab – Fedora](https://github.com/dacostaanaltino-wq/linux-hardening-lab-fedora) · 2026 | Mise en pratique du renforcement de la sécurité d’un système Fedora · Shell | En cours |
 
-## Technologies
+## Formation et expérience
 
-`Linux (Fedora)` · `Bash` · `Python` · `Cisco IOS` · `Wireshark/tshark` · `firewalld` · `SELinux` · `auditd` · `systemd/journald` · `Git`
+- Licence en ingénierie informatique, ISTA (2019–2024), attestation ENIC-NARIC niveau 6.
+- Bénévole en informatique, web et gestion chez AEIO Business (janvier–septembre 2026).
+- Technicien support informatique dans une agence de design graphique (2019–2022).
+
+## Langues
+
+Portugais C1 · Français B2 · Anglais B1 · Espagnol B1.
+
+Contact professionnel : [analtino.costa@gmail.com](mailto:analtino.costa@gmail.com).
